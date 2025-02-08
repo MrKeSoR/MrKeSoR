@@ -5,7 +5,7 @@
 
 <h3 align="center">Skills</h3>
 
-<table width="100%">
+<table width="100%" style="margin: 0 auto;>
   <tr>
     <td valign="top" align="center">
       <img src="https://img.shields.io/badge/-Frontend-brightgreen?style=for-the-badge" alt="Frontend" style="margin-bottom: 5px;"> <br>
