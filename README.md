@@ -47,6 +47,9 @@
   <h3>Socials</h3>
 
  <p align="center">
+    <a href="https://www.twitch.tv/mckesor" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="36" height="36" alt="Twitch" />
+    </a>
     <a href="https://discord.com/users/mckesor" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord" />
     </a>
@@ -55,9 +58,6 @@
     </a>
     <a href="https://www.youtube.com/@mtechlabdev" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" alt="YouTube" />
-    </a>
-    <a href="https://www.twitch.tv/mckesor" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="36" height="36" alt="Twitch" />
     </a>
 </p>
 
