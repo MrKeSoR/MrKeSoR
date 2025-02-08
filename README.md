@@ -17,8 +17,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" style="margin-bottom: 5px;" /></a><br>
     </td>
     <td valign="top" align="center">
-      <img src="https://img.shields.io/badge/-Databases-9cf?style=for-the-badge" alt="Databases" style="margin-bottom: 5px;"> <br>
+      <img src="https://img.shields.io/badge/-DB-9cf?style=for-the-badge" alt="DB" style="margin-bottom: 5px;"> <br>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" style="margin-bottom: 5px;" /></a><br>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jmnote/icons/master/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" style="margin-bottom: 5px;" /></a><br>
     </td>
     <td valign="top" align="center">
       <img src="https://img.shields.io/badge/-Cloud-orange?style=for-the-badge" alt="Cloud" style="margin-bottom: 5px;"> <br>
