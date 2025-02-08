@@ -26,7 +26,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" style="margin-bottom: 5px;" /></a><br>
     </td>
         <td valign="top" align="center">
-      <img src="https://img.shields.io/badge/-Operating%20Systems-blueviolet?style=for-the-badge" alt="Operating Systems" style="margin-bottom: 5px;"> <br>
+      <img src="https://img.shields.io/badge/-OS-blueviolet?style=for-the-badge" alt="OS" style="margin-bottom: 5px;"> <br>
       <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" style="margin-bottom: 5px;"/></a><br>
       <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/windows-10.png" width="36" height="36" alt="Windows" style="margin-bottom: 5px;"/></a> <br>
     </td>
