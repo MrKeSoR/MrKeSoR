@@ -55,8 +55,10 @@
 ">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" style="text-decoration: none;" width="36" height="36" alt="GitHub">
     </a>
-    <a href="https://www.youtube.com/@mtechlabdev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" style="text-decoration: none;" width="36" height="36" alt="YouTube" />
+    <a href="https://www.youtube.com/@mtechlabdev" target="_blank" rel="noreferrer" style="
+    text-decoration: none;
+">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" style="text-decoration: none;" width="36" height="36" alt="YouTube">
     </a>
     <a href="https://www.twitch.tv/mckesor" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" style="text-decoration: none;" width="36" height="36" alt="Twitch" />
