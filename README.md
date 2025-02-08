@@ -46,17 +46,17 @@
 
   <h3>Socials</h3>
 
- <p align="center" style="text-decoration: none">
-    <a href="https://discord.com/users/mckesor" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord" />
+ <p align="center>
+    <a href="https://discord.com/users/mckesor" target="_blank" rel="noreferrer" >
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" style="text-decoration: none;" width="36" height="36" alt="Discord" />
     </a>
-    <a href="https://github.com/MrKeSoR" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <a href="https://github.com/MrKeSoR" style="text-decoration: none;" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" />
     </a>
-    <a href="https://www.youtube.com/@mtechlabdev" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <a href="https://www.youtube.com/@mtechlabdev" style="text-decoration: none;" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" alt="YouTube" />
     </a>
-    <a href="https://www.twitch.tv/mckesor" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <a href="https://www.twitch.tv/mckesor" style="text-decoration: none;" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="36" height="36" alt="Twitch" />
     </a>
 </p>
