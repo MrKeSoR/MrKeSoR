@@ -10,7 +10,7 @@
   <table width="100%">
     <tr>
       <td valign="top" align="center">
-        <img src="https://img.shields.io/badge/-Frontend-brightgreen?style=for-the-badge&labelColor=black&color=brightgreen&link=https://example.com" alt="Frontend" style="margin-bottom: 10px;"> <br>
+        <img src="https://img.shields.io/badge/-Frontend-brightgreen?style=for-the-badge&labelColor=black&color=brightgreen&link=https://example.com" alt="Frontend" style="margin-bottom: 20px;"> <br>
         <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="margin-bottom: 5px;" /></a><br>
         <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="margin-bottom: 5px;" /></a><br>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="margin-bottom: 5px;" /></a><br>
