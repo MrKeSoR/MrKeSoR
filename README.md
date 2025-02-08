@@ -47,7 +47,7 @@
   <h3>Socials</h3>
 
  <p align="center">
-    <a href="https://www.twitch.tv/mckesor" target="_blank" rel="noopener noreferrer" style=" height: 1px; text-decoration: none;">
+    <a style="text-decoration: none;" href="https://www.twitch.tv/mckesor" target="_blank">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="36" height="36" alt="Twitch" />
     </a>
     <a href="https://discord.com/users/mckesor" target="_blank" rel="noopener noreferrer">
