@@ -16,10 +16,10 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="margin-bottom: 5px;" /></a><br>
         <a href="https://angular.io/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" style="margin-bottom: 5px;" /></a><br>
         <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" style="margin-bottom: 5px;" /></a><br>
-        <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="margin-bottom: 5px;" /></a><br>
-        <a href="https://www.electronjs.org/" target="_blank" rel="noopener noreferrer">
-  <img src="[https://img.icons8.com/color/48/000000/electron.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png)" width="36" height="36" alt="Electron" style="margin-bottom: 5px;" />
-</a><br>
+        <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="margin-bottom: 5px;" /></a><br><a href="https://www.electronjs.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="36" height="36" alt="Electron" style="margin-bottom: 5px;" />
+</a>
+<br>
       </td>
       <td valign="top" align="center">
         <img src="https://img.shields.io/badge/-Backend-blue?style=for-the-badge&labelColor=black&color=blue&link=https://example.com" alt="Backend" style="margin-bottom: 10px;"> <br>
