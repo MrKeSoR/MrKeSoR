@@ -47,11 +47,6 @@
         <a href="https://www.linux.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" style="margin-bottom: 5px;"/></a><br>
         <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/windows-10.png" width="36" height="36" alt="Windows" style="margin-bottom: 5px;"/></a> <br>
       </td>
-      <td valign="top" align="center">
-        <img src="https://img.shields.io/badge/-Tools-yellow?style=for-the-badge&labelColor=black&color=yellow&link=https://example.com" alt="Tools" style="margin-bottom: 10px;"> <br>
-       <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" style="margin-bottom: 5px;" /></a><br>
-        <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" style="margin-bottom: 5px;" /></a><br>
-      </td>
     </tr>
   </table>
 </div>
