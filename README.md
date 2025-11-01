@@ -20,6 +20,13 @@
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" style="margin-bottom: 5px;" />
         </a><br>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="margin-bottom: 5px;" /></a><br>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" 
+       width="36" 
+       height="36" 
+       alt="TypeScript" 
+       style="margin-bottom: 5px;" />
+</a><br>
         <a href="https://angular.io/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" style="margin-bottom: 5px;" /></a><br>
         <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" style="margin-bottom: 5px;" /></a><br>
         <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="margin-bottom: 5px;" /></a><br><a href="https://www.electronjs.org/" target="_blank" rel="noopener noreferrer">
